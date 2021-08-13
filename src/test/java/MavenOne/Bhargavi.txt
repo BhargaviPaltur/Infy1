@@ -1,0 +1,11 @@
+All local variables should be initiadated by the developers.
+Local variables are method scoped.
+While instance(class scoped) and static(class scoped with static keyword) will be initialized by the compiler based on the dt.
+
+Array starts with index 0.
+int[] a= new int[10];
+int[] a= new int{10,20,30}
+String[] s= new String[10];
+String[]s1= new String["Rose","lily"]
+
+===============================================
