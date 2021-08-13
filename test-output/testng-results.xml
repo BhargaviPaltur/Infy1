@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="117" started-at="2021-08-13T02:14:54Z" finished-at="2021-08-13T02:14:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="117" started-at="2021-08-13T02:14:54Z" finished-at="2021-08-13T02:14:54Z">
+      <class name="MavenOne.Demo2">
+        <test-method status="PASS" signature="hi4()[pri:0, instance:MavenOne.Demo2@39aeed2f]" name="hi4" duration-ms="12" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi4 -->
+        <test-method status="PASS" signature="hi5()[pri:0, instance:MavenOne.Demo2@39aeed2f]" name="hi5" duration-ms="4" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi5 -->
+        <test-method status="PASS" signature="hi6()[pri:0, instance:MavenOne.Demo2@39aeed2f]" name="hi6" duration-ms="2" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi6 -->
+      </class> <!-- MavenOne.Demo2 -->
+      <class name="MavenOne.Demo3">
+        <test-method status="PASS" signature="hi7()[pri:0, instance:MavenOne.Demo3@5419f379]" name="hi7" duration-ms="2" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi7 -->
+        <test-method status="PASS" signature="hi8()[pri:0, instance:MavenOne.Demo3@5419f379]" name="hi8" duration-ms="3" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi8 -->
+        <test-method status="PASS" signature="hi9()[pri:0, instance:MavenOne.Demo3@5419f379]" name="hi9" duration-ms="3" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi9 -->
+      </class> <!-- MavenOne.Demo3 -->
+      <class name="MavenOne.Demo">
+        <test-method status="PASS" signature="hi1()[pri:0, instance:MavenOne.Demo@457e2f02]" name="hi1" duration-ms="2" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi1 -->
+        <test-method status="PASS" signature="hi2()[pri:0, instance:MavenOne.Demo@457e2f02]" name="hi2" duration-ms="5" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi2 -->
+        <test-method status="PASS" signature="hi3()[pri:0, instance:MavenOne.Demo@457e2f02]" name="hi3" duration-ms="5" started-at="2021-08-13T12:14:54Z" finished-at="2021-08-13T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi3 -->
+      </class> <!-- MavenOne.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
